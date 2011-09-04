@@ -1,0 +1,7 @@
+Config files for
+	1. mutt
+		a. ~/.muttrc
+		b. ~/mailcap
+	2. gvim/vim
+		a. ~/.vimrc
+
